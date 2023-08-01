@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "allowJs": true,
+      "baseUrl": "../node_modules",
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "types": [
+        "cypress"
+      ]
+    },
+    "include": [
+      "**/*.*"
+    ]
+  }
