@@ -13,4 +13,5 @@ export default class LoginPage extends BasePage{
         //cy.get('.alert-error').should('be.visible')
         cy.isVisible('.alert-error')
     }
+
 }
